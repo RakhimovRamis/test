@@ -1,2 +1,1 @@
-file python version 1
-Update 1
+Файл Python, версия 3

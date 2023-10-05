@@ -1,1 +1,1 @@
-file js version 1
+file javascript version 1
